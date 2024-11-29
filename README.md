@@ -6,10 +6,10 @@ The professor was one of the best professors I've ever had, but he only taught f
 
 There were two offerings of this course that contributed to my BS's minors in Math and Computer Science.
 - [Numerical Analysis 1 - CMPSC 455 / MATH 455 ](./src/CMPSC_455/)
-  - [Class Notes]
+  - [Class Notes](./src/CMPSC_455/Notes/)
   - Algorithms
     - [Approximation of Pi](./src/CMPSC_455/approx_pi.m)
-    - [Divided Differences Table](./src/Lab3/divided_differences.m)
+    - [Divided Differences Table](./src/CMPSC_455/Lab3/divided_differences.m)
     - [Hermite Polynomials](./src/CMPSC_455/Hermite_INT_3.nb)
   - Labs
     - [Lab 1](./src/CMPSC_455/Lab1)
@@ -23,10 +23,12 @@ There were two offerings of this course that contributed to my BS's minors in Ma
     - [Inverse Power Method](./src/CMPSC_456/invPowerMethod.m)
     - [Power Method](./src/CMPSC_456/powermethod.m)
   - Programming Problems
-    - [Programming Assignment 1](./src/CMPSC_456/P1.m)
-    - [Programming Assignment 2](./src/CMPSC_456/P2.m)
+    - [Programming Assignment 1](./src/CMPSC_456/P1)
+    - [Programming Assignment 2](./src/CMPSC_456/P2)
+    - [Programming Assignment 3](./src/CMPSC_456/P3)
+    - [Programming Assignment 4](./src/CMPSC_456/P4)
   - Homeworks
-    - [HW 1](./src/CMPSC_456/HW1.m)
-    - [HW 2](./src/CMPSC_456/HW2.m)
+    - [HW 1](./src/CMPSC_456/HW1)
+    - [HW 2](./src/CMPSC_456/HW2)
     - [HW 3](./src/CMPSC_456/HW3.m)
   - [Assessment 1](./src/CMPSC_456/Assessment1.m)
