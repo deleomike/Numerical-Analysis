@@ -1,4 +1,4 @@
-# Numerical Analysis :math:
+# Numerical Analysis
 
 My numerical analysis class at Penn State Behrend
 
@@ -6,6 +6,7 @@ The professor was one of the best professors I've ever had, but he only taught f
 
 There were two offerings of this course that contributed to my BS's minors in Math and Computer Science.
 - [Numerical Analysis 1 - CMPSC 455 / MATH 455 ](./src/CMPSC_455/)
+  - [Class Notes]
   - Algorithms
     - [Approximation of Pi](./src/CMPSC_455/approx_pi.m)
     - [Divided Differences Table](./src/CMPSC_455/divided_differences.m)
