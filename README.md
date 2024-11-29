@@ -9,14 +9,14 @@ There were two offerings of this course that contributed to my BS's minors in Ma
   - [Class Notes]
   - Algorithms
     - [Approximation of Pi](./src/CMPSC_455/approx_pi.m)
-    - [Divided Differences Table](./src/CMPSC_455/divided_differences.m)
+    - [Divided Differences Table](./src/Lab3/divided_differences.m)
     - [Hermite Polynomials](./src/CMPSC_455/Hermite_INT_3.nb)
   - Labs
-    - [Lab 1](./src/CMPSC_455/Lab1.m)
-    - [Lab 2](./src/CMPSC_455/Lab2.m)
-    - [Lab 3](./src/CMPSC_455/Lab3.m)
-    - [Lab 4](./src/CMPSC_455/Lab4.m)
-    - [Lab 5](./src/CMPSC_455/Lab5.m)
+    - [Lab 1](./src/CMPSC_455/Lab1)
+    - [Lab 2](./src/CMPSC_455/Lab2)
+    - [Lab 3](./src/CMPSC_455/Lab3)
+    - [Lab 4](./src/CMPSC_455/Lab4)
+    - [Lab 5](./src/CMPSC_455/Lab5)
   - [Final](./src/CMPSC_455/Final.m)
 - [Numerical Analysis 2 - CMPSC 456 / MATH 456 ](./src/CMPSC_456/)
   - Algorithms
